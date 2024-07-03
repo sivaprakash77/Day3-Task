@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar li{
+    display:inline;
+    font-size: 30px;
+    margin: 65px;
+}
+
+.navbar img{
+    width: 50px;
+}
+
+.navbar{
+   display:flex;
+   flex-direction: row;
+   background-color: aliceblue;
+   border: 1px solid black;
+   list-style-type: none;
+   align-items: center;  
+}
+.navbar p{
+    font-size: 25px;
+}
+.larimg{
+    width:100%;
+}
+.Maincon{
+    display:flex;
+    flex-direction: row;
+}
+.para{
+    width:750px;
+    margin:50px;
+}
+.sideimg{
+    padding:30px;
+}
+.Services{
+    display:flex;
+    flex-direction: row;
+    margin:75px;
+}
+#adv150{
+    margin:50px;
+}
+#fzadv{
+    margin:50px;
+}
+#touradv{
+    margin:50px;
+}
+
