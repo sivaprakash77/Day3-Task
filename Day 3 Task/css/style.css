@@ -1,0 +1,90 @@
+*{
+    margin:0;
+    padding:0;
+}
+.navbar li{
+    display:inline;
+    font-size: 30px;
+    margin: 65px;
+}
+
+.navbar img{
+    width: 50px;
+}
+
+.navbar{
+   display:flex;
+   flex-direction: row;
+   background-color:rgb(11, 0, 72);
+   border: 1px solid black;
+   list-style-type: none;
+   align-items: center; 
+   color: white; 
+}
+.navbar p{
+    font-size: 25px;
+}
+.Maincon{
+    display:flex;
+    flex-direction: row;
+}
+.para{
+    width:750px;
+    margin:50px;
+}
+.sideimg{
+    padding:30px;
+}
+.Services{
+    display:flex;
+    flex-direction: row;
+    margin:75px;
+}
+#adv150{
+    margin:50px;
+}
+#fzadv{
+    margin:50px;
+}
+#touradv{
+    margin:50px;
+}
+h2{
+    text-align: end;
+    text-decoration: none;
+}
+.prodimg{
+    padding: 80px;
+    word-spacing: 110px;
+}
+.boat{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+table{
+    margin-left:auto;
+    margin-right:auto;
+}
+td{
+    font-size: 25px;
+}
+button{
+    font-size: 15px;
+    padding:5px;
+    border-radius: 50px;
+}
+footer p{
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(11, 0, 72);
+    padding: 30px;
+    color:white;
+}
+h2{
+    text-decoration: underline;
+}
+li:hover{
+    color:rgb(233, 62, 62);
+    text-decoration: underline;
+}
